@@ -1,13 +1,12 @@
 ---
 templateKey: blog-post
-title: Waffles
-date: 2017-01-04T15:04:10.000Z
-description: Gluten free fluffy waffles
+title: Phad See Ew
+date: 2019-03-02T21:03:46.132Z
+description: Thai recipe with flat noodles
 tags:
-  - brewing
-  - chemex
+  - Thai
 ---
-![chemex](https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/waffle.jpg)
+![Phad See Ew](/img/phad_see_ew.jpg "Phad See Ew")
 
 ## Ingredients
 

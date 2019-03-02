@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-title: Spicy pork on rice
-date: 2017-01-04T15:04:10.000Z
-description: Like Bibimbap
+title: Spicy Pork on Rice
+date: 2019-03-02T21:10:56.942Z
+description: Gluten-free Korean dish with lots of meat and spice!
 tags:
-  - ''
+  - spicy bibimbap asian comfort Korean
 ---
-![](https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/spicy_pork_on_rice.jpg)
+![Spicy pork on rice with an egg and green onion on top](/img/spicy_pork_on_rice.jpg "Spicy pork on rice with an egg and green onion on top")
 
 ## Ingredients
 
