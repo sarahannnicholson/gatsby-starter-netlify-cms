@@ -6,7 +6,7 @@ description: Like Bibimbap
 tags:
   - ''
 ---
-![](/img/spicy_pork_on_rice.jpg)
+![](https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/spicy_pork_on_rice.jpg)
 
 ## Ingredients
 
