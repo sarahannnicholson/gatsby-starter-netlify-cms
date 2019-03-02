@@ -4,7 +4,7 @@ title: Phad See Ew
 date: 2019-03-02T20:06:12.915Z
 description: Thai dish with flat noodles
 tags:
-  - Thai
+  - Thai comfort
 ---
 ![](https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/phad_see_ew.jpg)
 
