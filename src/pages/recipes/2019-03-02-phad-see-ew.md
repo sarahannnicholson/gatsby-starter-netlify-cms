@@ -6,6 +6,8 @@ description: Thai dish with flat noodles
 tags:
   - Thai
 ---
+![](https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/phad_see_ew.jpg)
+
 # Ingredients
 
 * ingredient 1
