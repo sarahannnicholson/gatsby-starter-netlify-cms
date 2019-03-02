@@ -2,12 +2,12 @@
 templateKey: blog-post
 title: Spicy Pork on Rice
 date: 2019-03-02T21:48:34.200Z
+thumbnail: >-
+  https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/spicy_pork_on_rice.jpg
 description: A korean dish with some heat
 tags:
   - Korean spicy comfort
 ---
-![Spicy pork with an egg and green onion on top](https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/spicy_pork_on_rice.jpg "Spicy pork with an egg and green onion on top")
-
 # Ingredients
 
 * ingredient 1
