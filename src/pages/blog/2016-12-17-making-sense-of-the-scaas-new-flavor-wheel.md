@@ -4,12 +4,9 @@ title: Phad See Ew
 date: 2016-12-17T15:04:10.000Z
 description: Thai recipe with flat noodles
 tags:
-  - flavor
-  - tasting
+  - thai
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
-
-
+![Phad See Ew](https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/phad_see_ew.jpg "Phad See Ew")
 
 ## Ingredients
 
