@@ -6,7 +6,7 @@ description: Gluten-free Korean dish with lots of meat and spice!
 tags:
   - spicy bibimbap asian comfort Korean
 ---
-![Spicy pork on rice with an egg and green onion on top](/img/spicy_pork_on_rice.jpg "Spicy pork on rice with an egg and green onion on top")
+![Spicy pork on rice with an egg and green onion on top](https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/spicy_pork_on_rice.jpg "Spicy pork on rice with an egg and green onion on top")
 
 ## Ingredients
 

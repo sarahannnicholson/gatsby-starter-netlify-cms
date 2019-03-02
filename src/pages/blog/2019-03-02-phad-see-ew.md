@@ -6,7 +6,7 @@ description: Thai recipe with flat noodles
 tags:
   - Thai
 ---
-![Phad See Ew](/img/phad_see_ew.jpg "Phad See Ew")
+![Phad See Ew](https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/phad_see_ew.jpg "Phad See Ew")
 
 ## Ingredients
 
