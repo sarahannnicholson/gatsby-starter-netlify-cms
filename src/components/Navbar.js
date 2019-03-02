@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faBookOpen } from '@fortawesome/free-solid-svg-icons'
 
 const Navbar = class extends React.Component {
   componentDidMount() {
@@ -37,7 +37,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+              <FontAwesomeIcon color='#f40' icon={faBookOpen} tyle={{ width: '88px' }} size='2x'/>
             </Link>
             {/* Hamburger menu */}
             <div className="navbar-burger burger" data-target="navMenu">
@@ -49,7 +49,7 @@ const Navbar = class extends React.Component {
           <div id="navMenu" className="navbar-menu">
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item" to="/recipes">
-                Blog
+                Recipes
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
@@ -59,9 +59,6 @@ const Navbar = class extends React.Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <span className="icon">
-                  <img src={github} alt="Github" />
-                </span>
               </a>
             </div>
           </div>
