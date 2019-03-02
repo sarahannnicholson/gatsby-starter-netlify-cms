@@ -7,7 +7,7 @@ tags:
   - brewing
   - chemex
 ---
-![chemex](/img/waffle.jpg)
+![chemex](https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/waffle.jpg)
 
 ## Ingredients
 
