@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Family cook book',
+    title: 'Family cookbook',
     description:
       'A place to share family recipes',
   },
