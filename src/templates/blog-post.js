@@ -11,6 +11,7 @@ export const BlogPostTemplate = ({
   contentComponent,
   description,
   tags,
+  thumbnail,
   title,
   helmet,
 }) => {
@@ -20,7 +21,21 @@ export const BlogPostTemplate = ({
     <section className="section">
       {helmet || ''}
       <div className="container content">
+      <div
+            className="full-width-image-container margin-top-0"
+            style={{
+              backgroundPositionY: '50%',
+              height: '40vw',
+              backgroundImage: `url(${
+                !!thumbnail.childImageSharp
+                  ? thumbnail.childImageSharp.fluid.src
+                  : thumbnail
+              })`,
+            }}
+          >
+          </div>
         <div className="columns">
+  
           <div className="column is-10 is-offset-1">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
@@ -62,6 +77,7 @@ const BlogPost = ({ data }) => {
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
+        thumbnail={post.frontmatter.thumbnail}
         description={post.frontmatter.description}
         helmet={
           <Helmet titleTemplate="%s | Blog">
@@ -95,6 +111,7 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
+        thumbnail
         description
         tags
       }
