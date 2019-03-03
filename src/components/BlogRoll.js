@@ -16,7 +16,7 @@ class BlogRoll extends React.Component {
               <div class="card notification">
                 <div class="card-image">
                   <figure class="image">
-                    <img src={post.frontmatter.thumbnail} />
+                    <img src={post.frontmatter.thumbnail} alt={post.frontmatter.title}/>
                   </figure>
                 </div>
                 <div class="card-content">
