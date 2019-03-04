@@ -114,12 +114,28 @@ $menu-label-color: $white-ter
 
 @import "~bulma"
 
+// Overwrites
+.button
+  background-color: #dbdbdb
+
 .notification
   padding: 0
 
-.notification .image > img
+  .image > img
   border-top-left-radius: 4px
   border-top-right-radius: 4px
 
-.notification .card-content
-  padding: 1em
+  .card-content
+    padding: 1em
+
+.taglist li a
+    @extend .button
+    background-color: white
+    &.active
+      border-color: #f40
+
+// Custom
+ul.blogList
+  list-style: none
+  img
+    max-width: 200px
