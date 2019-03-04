@@ -27,7 +27,7 @@ export const BlogPostTemplate = ({
               backgroundPositionY: '50%',
               height: '40vw',
               backgroundImage: `url(${
-                !!thumbnail.childImageSharp
+                !!thumbnail && !!thumbnail.childImageSharp
                   ? thumbnail.childImageSharp.fluid.src
                   : thumbnail
               })`,
