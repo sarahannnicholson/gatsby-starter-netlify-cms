@@ -6,7 +6,9 @@ thumbnail: >-
   https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/spicy_pork_on_rice.jpg
 description: A korean dish with some heat
 tags:
-  - Korean spicy comfort
+  - Korean
+  - spicy
+  - comfort
 ---
 # Ingredients
 
