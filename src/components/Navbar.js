@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faBookOpen } from '@fortawesome/free-solid-svg-icons'
+import { faBookOpen, faSearch } from '@fortawesome/free-solid-svg-icons'
 
 const Navbar = class extends React.Component {
   componentDidMount() {
@@ -37,7 +37,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <FontAwesomeIcon color='#f40' icon={faBookOpen} tyle={{ width: '88px' }} size='2x'/>
+              <FontAwesomeIcon color='#f40' icon={faBookOpen} size='2x'/>
             </Link>
             {/* Hamburger menu */}
             <div className="navbar-burger burger" data-target="navMenu">
@@ -53,13 +53,9 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              <a
-                className="navbar-item"
-                href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-              </a>
+              <Link className="navbar-item" to="/tags">
+                <FontAwesomeIcon color='#808080' icon={faSearch} size='2x'/>
+              </Link>
             </div>
           </div>
         </div>
