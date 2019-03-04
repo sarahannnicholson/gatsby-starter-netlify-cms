@@ -13,15 +13,15 @@ class BlogRoll extends React.Component {
         {posts && (posts
           .map(({ node: post }) => (
             <div className="is-parent column is-6" key={post.id}>
-              <div class="card notification">
-                <div class="card-image">
-                  <figure class="image">
+              <div className="card notification">
+                <div className="card-image">
+                  <figure className="image">
                     <img src={post.frontmatter.thumbnail} alt={post.frontmatter.title}/>
                   </figure>
                 </div>
-                <div class="card-content">
-                  <div class="media">
-                    <div class="media-content">
+                <div className="card-content">
+                  <div className="media">
+                    <div className="media-content">
                       <p>
                         <Link className="title has-text-primary is-size-4" to={post.fields.slug}>
                           {post.frontmatter.title}
