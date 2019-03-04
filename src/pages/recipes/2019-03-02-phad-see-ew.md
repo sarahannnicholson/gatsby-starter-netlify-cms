@@ -6,7 +6,8 @@ thumbnail: >-
   https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/phad_see_ew.jpg
 description: Thai dish with flat noodles
 tags:
-  - Thai comfort
+  - Thai
+  - comfort
 ---
 # Ingredients
 
