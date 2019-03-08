@@ -39,10 +39,14 @@ tags:
 
 ![Sliced onions](/img/onions.jpg "Sliced onions")
 
-1. Mix all marinade ingredients in the order they are listed.
-2. Add the marinade to the bowl of meat, mix with a spoon (optional: marinate overnight)
-3. Coat a frying pan with vegetable oil. Cook the marinated meat on high heat for 10-15 min or until the meat is fully cooked and the surface is nicely browned. 
-4. Cook 2 sunny side up eggs 
-5. Serve meat over rice, add egg on top of the meat. Sprinkle sesame seeds and green onion to garnish
+4. Mix all marinade ingredients in the order they are listed.
+
+5. Add the marinade to the bowl of meat, mix with a spoon (optional: marinate overnight)
+
+6. Coat a frying pan with vegetable oil. Cook the marinated meat on high heat for 10-15 min or until the meat is fully cooked and the surface is nicely browned. 
+
+7. Cook 2 sunny side up eggs 
+
+8. Serve meat over rice, add egg on top of the meat. Sprinkle sesame seeds and green onion to garnish
 
 Recipe inspired by: <http://crazykoreancooking.com/recipe/spicy-pork-bulgogi-spicy-marinated-pork>
