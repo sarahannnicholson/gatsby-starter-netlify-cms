@@ -11,23 +11,34 @@ tags:
 ---
 # Ingredients
 
-* ingredient 1
-* ingredient 2
-* ingredient 3
-* ingredient 4
-* ingredient 5
+* 6 oz / 180g dried wide rice stick noodles , or 15 oz / 450g fresh wide flat rice noodles (Sen Yai) (Note 1)
+* Sauce
+  * 2 tbsp dark soy sauce
+  * 2 tbsp oyster sauce
+  * 2 tsp soy sauce (gluten free)
+  * 2 tsp white vinegar
+  * 2 tsp sugar (white or brown)
+  * 2 tbsp water
+* 2 tbsp peanut or vegetable oil
+* 2 cloves garlic cloves
+* 1/2 package frozen pork rolls 
+* 1 large egg
+* 4 cups (packed) Chinese broccoli, leaves separated from stems (cut stems vertically into thin sticks)
 
 # Method
 
-Step 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
-Step 2
-Et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
-Step 3
-Aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Step 4
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Prepare the noodles according to packet instructions. Some just require soaking in boiling water for 5 minutes, others require cooking in a pot of boiling water for a few minutes. For fresh noodles, soak in boiled water in a bowl for a few minutes - do not boil in a pot. Drain when ready.
 
+2. Meanwhile, combine sauce ingredients.
 
+3. Mince the garlic straight into the wok with the oil. Place wok high heat. As the oil is heating, the garlic will gradually heat too and infuse the oil with flavour.
+
+4. When the oil is hot and the garlic is starting to turn golden, add the chicken and Chinese broccoli stems and stir fry for 1 minute.
+
+5. Move the chicken and Chinese broccoli to one side and crack in the egg, and scramble it. Don't worry if some of it sticks to the wok, it will char as you continue cooking - you want that chargrilled flavour!
+
+6. Add the noodles, Chinese broccoli leaves and the sauce. Fold gently to combine, for the sauce to coat the noodles evenly and to caramelise, and the leaves to just wilt. They only need to be just wilted because they will continue to cook while you are plating up.
+
+7. Serve with sesame seeds and green onion as garnish.
 
 Recipe inspired by: <https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/>
