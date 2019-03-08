@@ -11,7 +11,7 @@ tags:
 ---
 # Ingredients
 
-* 6 oz / 180g dried wide rice stick noodles , or 15 oz / 450g fresh wide flat rice noodles (Sen Yai) (Note 1)
+* 6 oz / 180g dried wide rice stick noodles 
 * Sauce
   * 2 tbsp dark soy sauce
   * 2 tbsp oyster sauce
