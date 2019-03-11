@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Habanero Hot sauce
 date: 2019-03-11T03:46:20.615Z
 thumbnail: >-
-  https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/greekfood.jpg
+  https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/hot_sauce.jpg
 description: 'My homemade habanero sauce '
 tags:
   - Spicy
