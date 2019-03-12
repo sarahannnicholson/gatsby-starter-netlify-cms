@@ -8,12 +8,10 @@ description: 'My homemade habanero sauce '
 tags:
   - Spicy
 ---
-
-
 # Ingredients
 
 * 10 habanero peppers
-* 3 thai chilies, seeds removed 
+* 3 Thai chilies, seeds removed 
 * 3/4 orange bell pepper
 * 1 medium onion
 * 4 cloves garlic
@@ -25,10 +23,10 @@ tags:
 
 # Method
 
-1. Chop habaneros and thai chilies (wear gloves). If skeptical about the spice level, remove most of the seeds (I left 1/2 the habanero seeds and removed all the red chili seeds)
+1. Chop habaneros and Thai chilies (wear gloves). If skeptical about the spice level, remove most of the seeds (I left 1/2 the habanero seeds and removed all the red chili seeds).
 2. Roughly chop the bell pepper, onion, garlic cloves parsley and tomatoes. 
-3. In a medium sized pot, add 1 tbsp oil over medium heat
-4. Add habaneros, chilies, bell pepper, onion, garlic, chicken bouillon, parsley, and tomatoes
-5. Let boil until soft, add vinegar and salt to taste, stir to combine
+3. In a medium sized pot, add 1 tbsp oil over medium heat.
+4. Add habaneros, chilies, bell pepper, onion, garlic, chicken bouillon, parsley, and tomatoes.
+5. Let boil until soft, add vinegar and salt to taste, stir to combine.
 6. Using a blender or immersion blender, blitz the mixture until somewhat chunky / smooth consistency. 
 7. strain excess liquid out by running it through a sieve. Take pepper mix from inside the sieve and transfer to a jar. The liquid runoff mixture may be vinegar-ey, feel free to use if you like the flavor.
