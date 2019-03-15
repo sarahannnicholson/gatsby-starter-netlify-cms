@@ -8,16 +8,17 @@ description: Delicious and creamy guacamole!
 tags:
   - Mexican
 ---
-
-
 # Ingredients
 
 * Perfectly ripe avocado
-* salt
-* lime juice
+* 1/2 tsp salt
+* 1/2 tbsp lime juice
 * 1/2 a shallot
 * 1/2 a jalapeno pepper
 
 # Method
 
-1. Get out your potato masher and a bowl that the masher will fit in.
+1. Get out your potato masher and a bowl that the masher will fit flat in.
+2. Peel and remove the seed from your avocado and place it in your bowl.
+3. Add the lime juice and salt.
+4.
