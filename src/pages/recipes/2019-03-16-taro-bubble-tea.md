@@ -21,4 +21,6 @@ tags:
 
 1. Prepare the boba. If using instant, cook as directed on the package (~5-7 mins). If using non-instant boba, cook until the color changes. If using white boba, cook until mostly clear. If using brown boba, cook until mostly black. 
 2. Once boba is done, strain and put the colander propped onto the pot that the boba came from. Then fill the pot with ice cold water to create an ice bath for the pearls. 
-3. Prepare the taro root by cutting a 1 inch cross section of the root
+3. Prepare the taro root by cutting a 1 inch cross section of the root. Then peel the skin off the cross section and cut into 1 inch cubes.
+4. Each drink will contain 2 taro cubes, so I'd suggest making 1/2 of the cubes. 
+5. In a pot, add water and bring to a boil. Add
