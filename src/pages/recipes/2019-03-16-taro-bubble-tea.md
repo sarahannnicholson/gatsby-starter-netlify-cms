@@ -26,5 +26,5 @@ tags:
 4. Each drink will contain 2 taro cubes, so I'd suggest making 1/2 of the cubes. 
 5. In a pot, add water and bring to a boil. Add your taro root cubes and cook for 15-20 minutes. 
 6. Check tenderness with a fork, once the taro is done, remove and let cool completely (if using soon, put it in the freezer for about 10 minutes)
-7. Add 2 pieces of taro root to a blender, add milk, honey, and ice. Blend until smooth.
-8. Assemble the drink
+7. Add 2 pieces of taro root to a blender, add milk, honey, and ice. Blend until smooth. (I used an immersion blender to blend the taro, milk and honey, then shook the mixture with ice -like a cocktail
+8. Assemble the drink by placing a handful of pearls into a glass, then pour in the smoothie mixture
