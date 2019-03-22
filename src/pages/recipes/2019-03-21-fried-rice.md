@@ -9,7 +9,7 @@ tags:
 ---
 # Ingredients
 
-* 2 tablespoons butter, divided
+* 3 canola oil (divided)
 * 3 eggs, whisked
 * 2 medium carrots, small dice
 * 1 small onion, small dice
@@ -25,6 +25,8 @@ tags:
 
 # Method
 
-1. sdf
+1. Heat 1 tablespoon of butter into a large skillet.
+2. Add the eggs and scramble until fully cooked. Remove them from the pan and set aside.
+
 
 Recipe inspired by: <https://chefsavvy.com/the-best-fried-rice/>
