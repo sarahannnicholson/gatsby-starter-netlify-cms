@@ -15,6 +15,11 @@ tags:
 * 1 small onion, small dice
 * 3 cloves garlic, minced
 * 1 cup frozen peas, thawed
+* 4 cups cooked and chilled rice, (I either use white or brown rice)
+* 3 tablespoons low sodium soy sauce
+* 2 tablespoons oyster sauce
+* 1 teaspoon sesame oil
+* sliced green onions for garnish, if desired
 
 
 
