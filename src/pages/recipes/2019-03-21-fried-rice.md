@@ -12,6 +12,11 @@ tags:
 * 2 tablespoons butter, divided
 * 3 eggs, whisked
 * 2 medium carrots, small dice
+* 1 small onion, small dice
+* 3 cloves garlic, minced
+* 1 cup frozen peas, thawed
+
+
 
 # Method
 
