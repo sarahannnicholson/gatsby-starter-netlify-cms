@@ -9,14 +9,12 @@ tags:
 ---
 # Ingredients
 
-* 
+* 2 tablespoons butter, divided
+* 3 eggs, whisked
+* 2 medium carrots, small dice
 
 # Method
 
 1. sdf
-
-
-
-
 
 Recipe inspired by: <https://chefsavvy.com/the-best-fried-rice/>
