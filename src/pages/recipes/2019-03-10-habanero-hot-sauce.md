@@ -7,6 +7,7 @@ thumbnail: >-
 description: 'My homemade habanero sauce '
 tags:
   - Spicy
+  - Mexican
 ---
 # Ingredients
 
