@@ -4,7 +4,7 @@ title: Spicy Pork on Rice
 date: 2019-03-02T21:48:34.200Z
 thumbnail: >-
   https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/spicy_pork_on_rice.jpg
-description: A korean dish with some heat
+description: A Korean dish with some heat.
 tags:
   - Korean
   - spicy
