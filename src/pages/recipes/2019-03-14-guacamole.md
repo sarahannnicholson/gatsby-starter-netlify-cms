@@ -22,5 +22,5 @@ tags:
 2. Peel and remove the seed from your avocado and place it in your bowl.
 3. Add the lime juice and salt.
 4. Mash the 3 ingredients together until smooth.
-5. Mince the shallot and jalapeno pepper
+5. Mince the shallot and jalapeno pepper.
 6. Add the shallot and jalapeno to the avocado mixture, stir and enjoy!
