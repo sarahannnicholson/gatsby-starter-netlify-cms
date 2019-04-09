@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: Fried rice
 date: 2019-03-22T05:42:42.270Z
-thumbnail: /img/fried_rice.jpg
+thumbnail: >-
+  https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/apple-touch-icon.png
 description: Oyster sauce fried rice
 tags:
   - Chinese
