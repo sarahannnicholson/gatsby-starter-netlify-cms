@@ -12,7 +12,10 @@ tags:
 
 # Ingredients
 
-*   
+* Rice noodles (medium thickness)
+* 350g medium sized shrimp, shell-on (optional)
+* 4 chicken thighs
+* 1 tbsp seafood concentrate (optional)
 
 # Method
 
