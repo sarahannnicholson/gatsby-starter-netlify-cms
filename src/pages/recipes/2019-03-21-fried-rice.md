@@ -32,6 +32,6 @@ tags:
 4. Add carrots and onion to the pan and cook until tender, 3-4 minutes.
 5. Stir in garlic and green beans and cook for an additional minute.
 6. Add in the cold rice and peas and sauté for 3-4 minutes. The rice should brown up a bit.
-7. Add the eggs back to the pan and
+7. Add the eggs back to the pan and stir in soy sauce, oyster sauce and sesame oil. Cook for 1-2 minutes to heat through.
 
 Recipe inspired by: <https://chefsavvy.com/the-best-fried-rice/>
