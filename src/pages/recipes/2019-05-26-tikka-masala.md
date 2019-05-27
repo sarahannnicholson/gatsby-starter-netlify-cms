@@ -32,7 +32,7 @@ tags:
 * 1 tsp, Garam Masala
 * 1 tsp, Ground Red Chili Powder
 * 2 cups, Strained Tomato Sauce
-* 1 cup, Heavy Cream + 2 tbsp
+* 1 cup heavy cream, + 2 tbsp
 * 2-3 tbsp hemp seeds
 * Salt to Taste
 * Fresh Coriander to garnish
