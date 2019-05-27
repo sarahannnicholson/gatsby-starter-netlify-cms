@@ -49,10 +49,8 @@ tags:
 
 4. Add Tomato Sauce, Ground Red Chili and season with salt to taste. Simmer for 20 minutes on low heat, stirring occasionally until Tomato Sauce thickens, and takes on a deep reddish brown colour.
 
-4. In a blender (or I used an electric spice grinder) add hemp seeds with 2tbsp of cream, blend until its pureed. It should be a consistency where you can pour it out of the container, but not too liquidy. 
+5. In a blender (or I used an electric spice grinder) add hemp seeds with 2tbsp of cream, blend until its pureed. It should be a consistency where you can pour it out of the container, but not too liquidy. 
 
-5. Add Chicken and Heavy Cream and pureed hemp seed mixture, and cook for an additional 10 minutes until mixture is bubbling, glossy, and thick.
-
- 
+6. Add Chicken and Heavy Cream and pureed hemp seed mixture, and cook for an additional 10 minutes until mixture is bubbling, glossy, and thick.
 
 Garnish with fresh Coriander and serve with hot Basmati Rice, and/or Naan/Rotis.
