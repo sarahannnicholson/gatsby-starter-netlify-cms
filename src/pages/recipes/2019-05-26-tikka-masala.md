@@ -51,3 +51,5 @@ tags:
 5. In a blender (or I used an electric spice grinder) add hemp seeds with 2tbsp of cream, blend until its pureed. It should be a consistency where you can pour it out of the container, but not too liquidy. 
 6. Add Chicken and Heavy Cream and pureed hemp seed mixture, and cook for an additional 10 minutes until mixture is bubbling, glossy, and thick.
 7. Garnish with fresh Coriander a dash of extra cream, and serve with hot Basmati Rice, and/or Naan/Rotis.
+
+Recipe inspired by: https://www.youtube.com/watch?v=HMfUsS9zeuw
