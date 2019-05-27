@@ -45,9 +45,9 @@ tags:
 
 \*The Chicken doesn’t have to be cooked through at this stage
 
-In the same pan, add butter and Onions, and cook until soft and translucent. Add Ginger and Garlic, and sautee for 30-45 seconds. Then add Turmeric, Coriander Powder, Cumin, Garam Masala. Fry until fragrant (15-20 seconds).
+3. In the same pan, add butter and Onions, and cook until soft and translucent. Add Ginger and Garlic, and sautee for 30-45 seconds. Then add Turmeric, Coriander Powder, Cumin, Garam Masala. Fry until fragrant (15-20 seconds).
 
-3. Add Tomato Sauce, Ground Red Chili and season with salt to taste. Simmer for 20 minutes on low heat, stirring occasionally until Tomato Sauce thickens, and takes on a deep reddish brown colour.
+4. Add Tomato Sauce, Ground Red Chili and season with salt to taste. Simmer for 20 minutes on low heat, stirring occasionally until Tomato Sauce thickens, and takes on a deep reddish brown colour.
 
 4. In a blender (or I used an electric spice grinder) add hemp seeds with 2tbsp of cream, blend until its pureed. It should be a consistency where you can pour it out of the container, but not too liquidy. 
 
