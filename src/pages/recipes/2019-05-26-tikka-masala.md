@@ -53,4 +53,4 @@ tags:
 
 6. Add Chicken and Heavy Cream and pureed hemp seed mixture, and cook for an additional 10 minutes until mixture is bubbling, glossy, and thick.
 
-Garnish with fresh Coriander and serve with hot Basmati Rice, and/or Naan/Rotis.
+7. Garnish with fresh Coriander a dash of extra cream, and serve with hot Basmati Rice, and/or Naan/Rotis.
