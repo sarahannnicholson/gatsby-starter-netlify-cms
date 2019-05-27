@@ -5,7 +5,8 @@ date: 2019-05-27T00:23:47.045Z
 thumbnail: /img/tikka_masala3.jpg
 description: Delicious restaurant style tikka masala!
 tags:
-  - Indian Spicy
+  - Indian
+  - Spicy
 ---
 # Ingredients
 
