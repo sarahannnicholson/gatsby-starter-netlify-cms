@@ -2,51 +2,75 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 
-class BlogRoll extends React.Component {
+import { makeStyles } from '@material-ui/core/styles';
+import Card from '@material-ui/core/Card';
+import CardHeader from '@material-ui/core/CardHeader';
+import CardMedia from '@material-ui/core/CardMedia';
+import CardContent from '@material-ui/core/CardContent';
+import Avatar from '@material-ui/core/Avatar';
+import Typography from '@material-ui/core/Typography';
 
-  render() {
-    const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
 
-    return (
-      <div className="columns is-multiline">
-        {posts && (posts
-          .map(({ node: post }) => (
-            <div className="is-parent column is-6" key={post.id}>
-              <div className="card notification">
-                <div className="card-image">
-                  <figure className="image">
-                    <img src={post.frontmatter.thumbnail} alt={post.frontmatter.title}/>
-                  </figure>
-                </div>
-                <div className="card-content">
-                  <div className="media">
-                    <div className="media-content">
-                      <p>
-                        <Link className="title has-text-primary is-size-4" to={post.fields.slug}>
-                          {post.frontmatter.title}
-                        </Link>
-                        <span> &bull; </span>
-                        <span className="subtitle is-size-5 is-block">{post.frontmatter.date}</span>
-                      </p>
-                      <p>
-                        {post.excerpt}
-                        <br />
-                        <br />
-                        <Link className="button" to={post.fields.slug}>
-                          View Recipe →
-                    </Link>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          )))}
-      </div>
-    );
-  }
+const useStyles = makeStyles(theme => ({
+  card: {
+    maxWidth: 345,
+  },
+  media: {
+    height: 0,
+    paddingTop: '56.25%', // 16:9
+  },
+  expand: {
+    transform: 'rotate(0deg)',
+    marginLeft: 'auto',
+    transition: theme.transitions.create('transform', {
+      duration: theme.transitions.duration.shortest,
+    }),
+  },
+  expandOpen: {
+    transform: 'rotate(180deg)',
+  },
+  avatar: {
+    backgroundColor: '#808080',
+  },
+}));
+
+const BlogRoll = ({data}) => {
+
+  const classes = useStyles();
+  const { edges: posts } = data.allMarkdownRemark
+
+  return (
+    <div className="columns is-multiline">
+      {posts && (posts
+        .map(({ node: post }) => (
+
+          <Card className={classes.card}>
+            <CardHeader
+              avatar={
+                <Avatar aria-label="Recipe" className={classes.avatar}>
+                  S
+                </Avatar>
+              }
+              title={post.frontmatter.title}
+              subheader={post.frontmatter.date}
+            />
+            <CardMedia
+              className={classes.media}
+              image={post.frontmatter.thumbnail}
+              title={post.frontmatter.title}
+            />
+            <CardContent>
+              <Typography variant="body2" color="textSecondary" component="p">
+                {post.excerpt}
+              </Typography>
+            </CardContent>
+            <Link className="button" to={post.fields.slug}></Link>
+          </Card>
+        )))}
+    </div>
+  );
 }
+
 
 BlogRoll.propTypes = {
   data: PropTypes.shape({
@@ -55,6 +79,8 @@ BlogRoll.propTypes = {
     }),
   }),
 }
+
+
 
 export default () => (
   <StaticQuery
