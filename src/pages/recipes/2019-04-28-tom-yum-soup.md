@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Tom yum soup
 date: 2019-04-28T16:42:16.813Z
-thumbnail: /img/tom-yum-soup3.jpg
+thumbnail: https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/tom-yum-soup3.jpg
 description: 'Spicy, sour, salty thai soup'
 tags:
   - Thai

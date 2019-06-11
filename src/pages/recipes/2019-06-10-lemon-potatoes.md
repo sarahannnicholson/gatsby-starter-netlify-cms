@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Lemon Potatoes
 date: 2019-06-11T03:41:56.015Z
-thumbnail: /img/lemon_potatoes.jpg
+thumbnail: https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/lemon_potatoes.jpg
 description: Perfect lemon potatoes
 tags:
   - Greek
