@@ -46,8 +46,13 @@ const BlogRoll = ({data}) => {
       <Grid classes={{root: classes.gridContainer}} container spacing={2}>
         {posts && (posts
           .map(({ node: post }) => (
-            <Grid item xs={12} sm={6} lg={4}>
+            <Grid item xs={12} sm={6} lg={4} component={Link} to={post.fields.slug}>
               <Card className={classes.card}>
+                <CardMedia
+                  className={classes.media}
+                  image={post.frontmatter.thumbnail}
+                  title={post.frontmatter.title}
+                />
                 <CardHeader
                   avatar={
                     <Avatar aria-label="Recipe" className={classes.avatar}>
@@ -57,17 +62,11 @@ const BlogRoll = ({data}) => {
                   title={post.frontmatter.title}
                   subheader={post.frontmatter.date}
                 />
-                <CardMedia
-                  className={classes.media}
-                  image={post.frontmatter.thumbnail}
-                  title={post.frontmatter.title}
-                />
                 <CardContent>
                   <Typography variant="body2" color="textSecondary" component="p">
-                    {post.excerpt}
+                    {post.frontmatter.description}
                   </Typography>
                 </CardContent>
-                <Link className="button" to={post.fields.slug}></Link>
               </Card>
             </Grid>
           )))}
@@ -97,13 +96,13 @@ export default () => (
       ) {
         edges {
           node {
-            excerpt(pruneLength: 400)
             id
             fields {
               slug
             }
             frontmatter {
               title
+              description
               templateKey
               date(formatString: "MMMM DD, YYYY")
               thumbnail
