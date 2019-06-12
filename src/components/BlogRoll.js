@@ -10,10 +10,12 @@ import CardContent from '@material-ui/core/CardContent';
 import Avatar from '@material-ui/core/Avatar';
 import Typography from '@material-ui/core/Typography';
 
+import Grid from '@material-ui/core/Grid';
 
 const useStyles = makeStyles(theme => ({
-  card: {
-    maxWidth: 345,
+  gridContainer:{
+    marginLeft: 'auto',
+    marginRight: 'auto'
   },
   media: {
     height: 0,
@@ -41,32 +43,35 @@ const BlogRoll = ({data}) => {
 
   return (
     <div className="columns is-multiline">
-      {posts && (posts
-        .map(({ node: post }) => (
-
-          <Card className={classes.card}>
-            <CardHeader
-              avatar={
-                <Avatar aria-label="Recipe" className={classes.avatar}>
-                  S
-                </Avatar>
-              }
-              title={post.frontmatter.title}
-              subheader={post.frontmatter.date}
-            />
-            <CardMedia
-              className={classes.media}
-              image={post.frontmatter.thumbnail}
-              title={post.frontmatter.title}
-            />
-            <CardContent>
-              <Typography variant="body2" color="textSecondary" component="p">
-                {post.excerpt}
-              </Typography>
-            </CardContent>
-            <Link className="button" to={post.fields.slug}></Link>
-          </Card>
-        )))}
+      <Grid classes={{root: classes.gridContainer}} container spacing={2}>
+        {posts && (posts
+          .map(({ node: post }) => (
+            <Grid item xs={12} sm={6} lg={4}>
+              <Card className={classes.card}>
+                <CardHeader
+                  avatar={
+                    <Avatar aria-label="Recipe" className={classes.avatar}>
+                      S
+                    </Avatar>
+                  }
+                  title={post.frontmatter.title}
+                  subheader={post.frontmatter.date}
+                />
+                <CardMedia
+                  className={classes.media}
+                  image={post.frontmatter.thumbnail}
+                  title={post.frontmatter.title}
+                />
+                <CardContent>
+                  <Typography variant="body2" color="textSecondary" component="p">
+                    {post.excerpt}
+                  </Typography>
+                </CardContent>
+                <Link className="button" to={post.fields.slug}></Link>
+              </Card>
+            </Grid>
+          )))}
+      </Grid>
     </div>
   );
 }
