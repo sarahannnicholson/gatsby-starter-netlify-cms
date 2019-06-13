@@ -1,14 +1,26 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
+import { makeStyles } from '@material-ui/core/styles'
+import Container from '@material-ui/core/Container'
 
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 
 import './all.sass'
 
-const TemplateWrapper = ({ children }) => (
-  <StaticQuery
+const useStyles = makeStyles(() => ({
+  container: {
+    paddingTop: '4em',
+    paddingBottom: '4em'
+  },
+}));
+
+const TemplateWrapper = ({ children }) => {
+
+  const classes = useStyles()
+  return (
+    <StaticQuery
     query={graphql`
       query HeadingQuery {
         site {
@@ -60,11 +72,15 @@ const TemplateWrapper = ({ children }) => (
           <meta property="og:image" content="/img/og-image.jpg" />
         </Helmet>
         <Navbar />
-        <div>{children}</div>
+        <Container className={classes.container}>
+          {children}
+        </Container>
         <Footer />
       </div>
     )}
   />
-)
+  )
+}
+
 
 export default TemplateWrapper
