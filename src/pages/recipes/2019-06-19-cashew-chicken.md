@@ -15,7 +15,7 @@ tags:
 
 * 200 grams chicken breast, cut into bite sized pieces
 * 1 tablespoon cassava flour or all-purpose flour
-* ⅓ cup natural taste cooking oil (I used sunflower oil for frying)
+* ⅓ cup natural taste cooking oil (eg. canola, sunflower)
 
 **For the vegetable ingredients**
 
@@ -45,7 +45,7 @@ tags:
 
 1. Put on some rice in a rice cooker and start the cycle.
 2. Mix up all the seasoning sauce ingredients in a small bowl and set aside.
-3. Grate the garlic, slice onions into wedges, and fresh chilies, cut and ready.
+3. Grate the garlic, slice onions into wedges, and fresh chilies julienned. Cut carrot and celery into cross sections., set all vegetables aside.
 4. Add about ⅓ cup of oil to a wok or frying pan, and wait until it heats up.
 5. Fry the raw cashew nuts for about ½ minute in the hot oil until golden brown, then drain, and set aside.
 6. In the same oil, fry the Thai dry chilies for about ½ minute until crispy, drain, and set aside.
@@ -55,3 +55,5 @@ tags:
 10. Add the chicken, cashew nuts, and dry chilies, and stir fry until everything is coated in the sticky sauce. You can add a few sprinkles of water if it gets too dry.
 11. Last step is to add the green onions, stir fry for only a few seconds, then turn off the heat.
 12. Serve with hot steamed rice.
+
+Inspired by: <https://www.eatingthaifood.com/thai-cashew-chicken-recipe/>
