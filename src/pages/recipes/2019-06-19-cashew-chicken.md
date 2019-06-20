@@ -13,7 +13,7 @@ tags:
 
 **For the chicken**
 
-* 200 grams chicken breast, cut into bite sized pieces
+* 4-5 chicken thighs, cut into bite sized pieces
 * 1 tablespoon cassava flour or all-purpose flour
 * ⅓ cup natural taste cooking oil (eg. canola, sunflower)
 
