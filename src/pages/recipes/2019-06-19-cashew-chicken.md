@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Cashew Chicken
 date: 2019-06-20T04:34:29.247Z
-thumbnail: /img/cashew-chicken.jpg
+thumbnail: /img/cashew-chicken2.jpg
 description: Perfect cashew chicken
 tags:
   - Chinese

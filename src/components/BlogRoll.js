@@ -45,8 +45,8 @@ const BlogRoll = ({data}) => {
     <div className="columns is-multiline">
       <Grid classes={{root: classes.gridContainer}} container spacing={2}>
         {posts && (posts
-          .map(({ node: post }) => (
-            <Grid item xs={12} sm={6} lg={4} component={Link} to={post.fields.slug}>
+          .map(({ node: post }, key) => (
+            <Grid key={key} item xs={12} sm={6} lg={4} component={Link} to={post.fields.slug}>
               <Card className={classes.card}>
                 <CardMedia
                   className={classes.media}
