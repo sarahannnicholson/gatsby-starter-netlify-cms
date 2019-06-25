@@ -13,6 +13,7 @@ import SearchIcon from '@material-ui/icons/Search';
 import AccountCircle from '@material-ui/icons/AccountCircle';
 import MailIcon from '@material-ui/icons/Mail';
 import NotificationsIcon from '@material-ui/icons/Notifications';
+import HomeIcon from '@material-ui/icons/Home';
 import MoreIcon from '@material-ui/icons/MoreVert';
 import { Link } from 'gatsby'
 
@@ -173,7 +174,11 @@ export default function PrimarySearchAppBar() {
             <MenuIcon />
           </IconButton>
 
-          
+          <IconButton aria-label="Show 4 new mails">
+            <Link to="/">
+              <HomeIcon />
+            </Link>
+          </IconButton>
           <Typography variant="h6" noWrap>
             <Link className={classes.title} to="/recipes">
               Recipes
