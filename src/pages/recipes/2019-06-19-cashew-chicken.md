@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: Cashew Chicken
 date: 2019-06-20T04:34:29.247Z
-thumbnail: https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/cashew-chicken2.jpg
+thumbnail: >-
+  https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/cashew-chicken2.jpg
 description: Perfect cashew chicken
 tags:
   - Chinese
@@ -25,7 +26,8 @@ tags:
 * ½ cup raw cashew nuts
 * 1 fresh Thai birds eye red chili (seeds removed)
 * 1 fresh Thai birds eye green chili (seeds removed)
-* 1 fresh Anaheim pepper (seeds removed)
+* 1 ½ - 2 fresh Anaheim pepper (seeds removed)
+* 3/4 of a poblano pepper (seeds removed)
 * ¼ 1 carrot
 * 1 small rib of celery
 * ⅓ cup green onions, cut 2.5 cm pieces
@@ -39,8 +41,6 @@ tags:
 * pinch of sugar
 * 3 tbsp. stock or water
 
-
-
 # Method
 
 1. Put on some rice in a rice cooker and start the cycle.
@@ -50,10 +50,13 @@ tags:
 5. Fry the raw cashew nuts for about ½ minute in the hot oil until golden brown, then drain, and set aside.
 6. In the same oil, fry the Thai dry chilies for about ½ minute until crispy, drain, and set aside.
 7. Dice the chicken, and mix with flour, to evenly coat it. Then again, fry in the oil for about 5-7 minutes until golden and crispy. Drain and set aside on a plate.
-8. Add ½ tbsp. of oil to a wok or frying pan on medium high heat. Stir fry the garlic for a few seconds, then add the onions and stir fry until translucent. Then add the red and green chilies and stir fry for a minute or so. You can sprinkle a few drips of water in the wok if it gets dry.
-9. Add the seasoning sauce mixture, and stir fry until the sauce thickens and become sticky.
-10. Add the chicken, cashew nuts, and dry chilies, and stir fry until everything is coated in the sticky sauce. You can add a few sprinkles of water if it gets too dry.
-11. Last step is to add the green onions, stir fry for only a few seconds, then turn off the heat.
-12. Serve with hot steamed rice.
+8. Add ½ tbsp. of oil to a wok or frying pan on medium high heat. 
+9. Add celery and carrots, stiry fry for 2 minutes. 
+10. Add garlic for a few seconds, then add the onions and stir fry until translucent. 
+11. Add the red and green chilies and stir fry for a minute or so. You can sprinkle a few drips of water in the wok if it gets dry.
+12. Add the seasoning sauce mixture, and stir fry until the sauce thickens and become sticky.
+13. Add the chicken, cashew nuts, and dry chilies, and stir fry until everything is coated in the sticky sauce. You can add a few sprinkles of water if it gets too dry.
+14. Last step is to add the green onions, stir fry for only a few seconds, then turn off the heat.
+15. Serve with hot steamed rice.
 
 Inspired by: <https://www.eatingthaifood.com/thai-cashew-chicken-recipe/>
