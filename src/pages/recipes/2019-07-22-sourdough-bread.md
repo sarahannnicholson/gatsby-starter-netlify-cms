@@ -58,6 +58,9 @@ Sourdough
 3. Mix the wet ingredients with a hand mixer (or immersion blender)
 4. When your yeast is almost done proofing, add the wet egg mixture to the flour mixture and combine until it is crumbly. 
 5. Add proofed yeast mixture and sourdough starter to the crumbly mixture.
+6. Using a hand mixer or immersion blender, mix for about 6 minutes. 
+7. Scoop into a greased bread pan
+8. Smooth out the surface using some warm water and your finger. Simply dip your finger into the water and 
 
 Starter inspiration: https://youtu.be/yOo7I6wxSN4
 
