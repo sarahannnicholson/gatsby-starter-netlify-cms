@@ -24,11 +24,32 @@ tags:
 
 
 
-
-
 # Ingredients
 
-* 
+Dry Ingredients:
+
+* ¾ cup brown rice flour (3.1 oz.)
+* ¾ cup corn starch (3.6 oz.)
+* 1 cup tapioca flour (4.0 oz.)
+* 1 ¼ tsp. xanthan gum
+* ½ tsp. salt
+* 2 tsp. baking powder
+
+Wet Ingredients:
+
+* 2 large eggs (room temp.)
+* 1 tsp. apple cider vinegar
+* 3 Tbsp. butter
+
+Yeast Mix:
+
+* ¾ cup hot water
+* 3 Tbsp. sugar
+* 2 tsp. Active Dry Yeast 
+
+Sourdough 
+
+* 1 cup refrigerated starter
 
 # Method
 
