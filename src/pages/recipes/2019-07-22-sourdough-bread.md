@@ -62,6 +62,7 @@ Sourdough
 7. Scoop into a greased bread pan
 8. Smooth out the surface using some warm water and your finger. 
 9. Allow dough to proof by putting it into an oven with the light on for 2-4 hours.
+10. Bake at 400 degrees until the bread reaches an internal temperature of 205 - 210 degrees Fahrenheit
 
 Starter inspiration: https://youtu.be/yOo7I6wxSN4
 
