@@ -57,7 +57,7 @@ Sourdough
 2. Prepare the yeast mixture and let stand for 10 - 20 minutes
 3. Mix the wet ingredients with a hand mixer (or immersion blender)
 4. When your yeast is almost done proofing, add the wet egg mixture to the flour mixture and combine until it is crumbly. 
-5. 
+5. Add proofed yeast mixture and sourdough starter to the crumbly mixture.
 
 Starter inspiration: https://youtu.be/yOo7I6wxSN4
 
