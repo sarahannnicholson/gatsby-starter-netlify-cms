@@ -35,17 +35,17 @@ Dry Ingredients:
 * ½ tsp. salt
 * 2 tsp. baking powder
 
+Yeast Mix:
+
+* ¾ cup hot water (105 - 110 degrees Fahrenheit)
+* 3 Tbsp. sugar
+* 2 tsp. Active Dry Yeast
+
 Wet Ingredients:
 
 * 2 large eggs (room temp.)
 * 1 tsp. apple cider vinegar
 * 3 Tbsp. butter
-
-Yeast Mix:
-
-* ¾ cup hot water
-* 3 Tbsp. sugar
-* 2 tsp. Active Dry Yeast 
 
 Sourdough 
 
@@ -53,7 +53,11 @@ Sourdough
 
 # Method
 
-1. Prepare the noodles according to packet instructions. Some just require soaking in boiling water for 5 minutes, ot
+1. Mix all dry ingredients into a bowl and whisk together until combined
+2. Prepare the yeast mixture and let stand for 10 - 20 minutes
+3. Mix the wet ingredients with a hand mixer (or immersion blender)
+4. When your yeast is almost done proofing, add the wet egg mixture to the flour mixture and combine until it is crumbly. 
+5. 
 
 Starter inspiration: https://youtu.be/yOo7I6wxSN4
 
