@@ -60,7 +60,8 @@ Sourdough
 5. Add proofed yeast mixture and sourdough starter to the crumbly mixture.
 6. Using a hand mixer or immersion blender, mix for about 6 minutes. 
 7. Scoop into a greased bread pan
-8. Smooth out the surface using some warm water and your finger. Simply dip your finger into the water and 
+8. Smooth out the surface using some warm water and your finger. 
+9. Allow dough to proof by putting it into an oven with the light on for 2-4 hours.
 
 Starter inspiration: https://youtu.be/yOo7I6wxSN4
 
