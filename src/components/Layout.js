@@ -7,8 +7,6 @@ import Container from '@material-ui/core/Container'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 
-import './all.sass'
-
 const useStyles = makeStyles(() => ({
   container: {
     paddingTop: '4em',
