@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Sourdough Bread
 date: 2019-07-23T02:03:02.702Z
-thumbnail: /img/sourdough_bread.jpg
+thumbnail: https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/sourdough_bread.jpg
 description: Gluten free moist sourdough bread
 tags:
   - Bread
@@ -37,7 +37,8 @@ Dry Ingredients:
 
 Yeast Mix:
 
-* ¾ cup hot water (105 - 110 degrees Fahrenheit)
+* ¾ cup hot water
+ (105 - 110 degrees Fahrenheit)
 * 3 Tbsp. sugar
 * 2 tsp. Active Dry Yeast
 

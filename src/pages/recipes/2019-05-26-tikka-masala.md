@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Tikka Masala
 date: 2019-05-27T00:23:47.045Z
-thumbnail: /img/tikka_masala4.jpg
+thumbnail: https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/tikka_masala4.jpg
 description: Delicious restaurant style tikka masala!
 tags:
   - Indian
