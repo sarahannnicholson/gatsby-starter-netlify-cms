@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: Tikka Masala
 date: 2019-05-27T00:23:47.045Z
-thumbnail: https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/tikka_masala2.jpg
+thumbnail: >-
+  https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/tikka_masala2.jpg
 description: Delicious restaurant style tikka masala!
 tags:
   - Indian
@@ -12,7 +13,7 @@ tags:
 
 **Chicken Marinade**
 
-* 1 cup, Plain Yogurt
+* 3/4 cup, Plain Yogurt
 * Juice of ½ Lemon
 * 3 cloves of Garlic, finely grated
 * 1 tbsp, Ginger, finely grated
@@ -30,8 +31,8 @@ tags:
 * 1/2 tsp, Turmeric Powder
 * 1 tsp, Ground Coriander
 * 1 tsp, Ground Cumin
-* 1 tsp, Garam Masala
-* 1 tsp, Ground Red Chili Powder ( I used kashmiri chilli powder)
+* 2 tsp, Garam Masala
+* 2 tsp, Ground Red Chili Powder ( I used kashmiri chilli powder)
 * 1 tsp cayenne or other spicy chili powder
 * 2 cups, Strained Tomato Sauce
 * 1 cup heavy cream, + 2 tbsp
