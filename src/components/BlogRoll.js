@@ -17,6 +17,7 @@ const useStyles = makeStyles(theme => ({
     marginLeft: 'auto',
     marginRight: 'auto'
   },
+  gridItemLink: { textDecoration: 'none' },
   media: {
     height: 0,
     paddingTop: '56.25%', // 16:9
@@ -46,7 +47,7 @@ const BlogRoll = ({data}) => {
       <Grid classes={{root: classes.gridContainer}} container spacing={2}>
         {posts && (posts
           .map(({ node: post }, key) => (
-            <Grid key={key} item xs={12} sm={6} lg={4} component={Link} to={post.fields.slug}>
+            <Grid key={key} item xs={12} sm={6} lg={4} className={classes.gridItemLink} component={Link} to={post.fields.slug}>
               <Card className={classes.card}>
                 <CardMedia
                   className={classes.media}
