@@ -5,35 +5,35 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import { makeStyles } from '@material-ui/core/styles'
 
-export const BlogPostTemplate = ({
-  content,
-  contentComponent,
-  description,
-  tags,
-  thumbnail,
-  title,
-  helmet,
-}) => {
+
+const useStyles = makeStyles((theme) => ({
+  featuredImage: {
+    backgroundPositionY: '50%',
+    height: '50vw',
+    [theme.breakpoints.up('md')]:{
+      height: '33vw'
+    },
+    backgroundImage: props => `url(${
+      !!props.thumbnail && !!props.thumbnail.childImageSharp
+        ? props.thumbnail.childImageSharp.fluid.src
+        : props.thumbnail
+    })`,
+    backgroundRepeat: 'no-repeat',
+    backgroundSize: 'cover',
+  },
+}));
+
+export const BlogPostTemplate = ({ content, contentComponent, description, tags, thumbnail, title,  helmet }) => {
   const PostContent = contentComponent || Content
-
+  const classes = useStyles({thumbnail: thumbnail})
+ 
   return (
     <section className="section">
       {helmet || ''}
       <div className="container content">
-      <div
-            className="full-width-image-container margin-top-0"
-            style={{
-              backgroundPositionY: '50%',
-              height: '40vw',
-              backgroundImage: `url(${
-                !!thumbnail && !!thumbnail.childImageSharp
-                  ? thumbnail.childImageSharp.fluid.src
-                  : thumbnail
-              })`,
-            }}
-          >
-          </div>
+        <div className={`full-width-image-container margin-top-0 ${classes.featuredImage}`}/>
         <div className="columns">
   
           <div className="column is-10 is-offset-1">

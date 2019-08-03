@@ -17,8 +17,8 @@ const useStyles = makeStyles(() => ({
 }));
 
 const TemplateWrapper = ({ children }) => {
-
   const classes = useStyles()
+
   return (
     <StaticQuery
     query={graphql`
