@@ -8,7 +8,6 @@ import MenuIcon from '@material-ui/icons/Menu'
 import SearchIcon from '@material-ui/icons/Search'
 import HomeIcon from '@material-ui/icons/Home'
 import RestaurantIcon from '@material-ui/icons/Restaurant'
-import { Link } from 'gatsby'
 import SwipeableDrawer from '@material-ui/core/SwipeableDrawer'
 import List from '@material-ui/core/List'
 import ListItem from '@material-ui/core/ListItem'
@@ -21,13 +20,6 @@ const useStyles = makeStyles(theme => ({
   },
   menuButton: {
     marginRight: theme.spacing(2),
-  },
-  menuItem: {
-    display: 'flex',
-    color: theme.palette.text.primary,
-    textDecoration: 'none',
-    width: '100%',
-    padding: `${theme.spacing(1.5)}px ${theme.spacing(1)}px`
   },
   search: {
     position: 'relative',
@@ -64,7 +56,6 @@ const useStyles = makeStyles(theme => ({
       width: 200,
     },
   },
-  listItem: { padding: 0 },
   list: { width: 250 },
 }))
 
@@ -89,7 +80,7 @@ export default function PrimarySearchAppBar() {
             edge="start"
             className={classes.menuButton}
             color="inherit"
-            aria-label="Open drawer"
+            aria-label="Open Main Navigation"
             onClick={toggleDrawer('left', true)}
           >
             <MenuIcon />
@@ -106,17 +97,13 @@ export default function PrimarySearchAppBar() {
               onKeyDown={toggleDrawer('left', false)}
             >
               <List>
-                <ListItem button className={classes.listItem}>
-                  <Link className={classes.menuItem} to="/">
-                    <ListItemIcon><HomeIcon /></ListItemIcon>
-                    <ListItemText primary='Home' />
-                  </Link>
+                <ListItem button className={classes.listItem} href='/' role='link'>
+                  <ListItemIcon><HomeIcon /></ListItemIcon>
+                  <ListItemText primary='Home' />
                 </ListItem>
-                <ListItem button className={classes.listItem}>
-                  <Link className={classes.menuItem} to="/recipes">
-                    <ListItemIcon><RestaurantIcon /></ListItemIcon>
-                    <ListItemText primary='Recipes' />
-                  </Link>
+                <ListItem button className={classes.listItem} href='/recipes' role='link'>
+                  <ListItemIcon><RestaurantIcon /></ListItemIcon>
+                  <ListItemText primary='Recipes' />
                 </ListItem>
               </List>
             </div>
