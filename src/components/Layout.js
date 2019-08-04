@@ -5,7 +5,6 @@ import { makeStyles } from '@material-ui/core/styles'
 import Container from '@material-ui/core/Container'
 
 import Navbar from '../components/Navbar'
-import Footer from '../components/Footer'
 
 const useStyles = makeStyles(() => ({
   container: {
@@ -73,7 +72,6 @@ const TemplateWrapper = ({ children }) => {
         <Container className={classes.container}>
           {children}
         </Container>
-        <Footer />
       </div>
     )}
   />
