@@ -7,6 +7,8 @@ import InputBase from '@material-ui/core/InputBase'
 import MenuIcon from '@material-ui/icons/Menu'
 import SearchIcon from '@material-ui/icons/Search'
 import HomeIcon from '@material-ui/icons/Home'
+import CloseIcon from '@material-ui/icons/Close'
+import Divider from '@material-ui/core/Divider';
 import RestaurantIcon from '@material-ui/icons/Restaurant'
 import SwipeableDrawer from '@material-ui/core/SwipeableDrawer'
 import List from '@material-ui/core/List'
@@ -56,6 +58,13 @@ const useStyles = makeStyles(theme => ({
       width: 200,
     },
   },
+  drawerHeader: {
+    display: 'flex',
+    alignItems: 'center',
+    padding: '0 8px',
+    ...theme.mixins.toolbar,
+    justifyContent: 'flex-end',
+  },
   list: { width: 250 },
 }))
 
@@ -69,6 +78,7 @@ export default function PrimarySearchAppBar() {
     if (event && event.type === 'keydown' && (event.key === 'Tab' || event.key === 'Shift')) {
       return;
     }
+    console.log('toggle drawer')
 
     setState({ ...state, [side]: open });
   }
@@ -90,6 +100,13 @@ export default function PrimarySearchAppBar() {
             onClose={toggleDrawer('left', false)}
             onOpen={toggleDrawer('left', true)}
           >
+            <div className={classes.drawerHeader}>
+              <IconButton onClick={toggleDrawer('left', false)} aria-label="Close Main Navigation">
+                <CloseIcon />
+              </IconButton>
+            </div>
+            <Divider />
+
             <div
               className={classes.list}
               role="presentation"
