@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Butter Chicken
 date: 2019-09-14T03:00:03.411Z
-thumbnail: /img/butter_chicken-2-.jpg
+thumbnail: https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/butter_chicken-2-.jpg
 description: Best butter chicken recipe!
 tags:
   - Indian
@@ -32,9 +32,11 @@ tags:
 * 2 medium Onions finely diced
 * 3 cloves of Garlic, finely grated
 * 1 tbsp Ginger, finely grated
-* 2 - 2 ¼ cups, Tomato Sauce (Passata from a jar)
+* 2 - 2 ¼ cups, Tomato Sauce
+ (Passata from a jar)
 * 2 tbsp, Sugar
-* 2 tbsp and 1 tsp, Ground Red Chili Powder
+* 
+2 tbsp and 1 tsp, Ground Red Chili Powder
 * 1 tbsp, Dried Fenugreek Leaves
 * 1 tsp, Garam Masala
 * ½ tsp deathly hot Chili powder

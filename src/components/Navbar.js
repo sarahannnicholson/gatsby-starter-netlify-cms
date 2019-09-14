@@ -10,6 +10,7 @@ import HomeIcon from '@material-ui/icons/Home'
 import CloseIcon from '@material-ui/icons/Close'
 import Divider from '@material-ui/core/Divider';
 import RestaurantIcon from '@material-ui/icons/Restaurant'
+import { Link } from 'gatsby'
 import SwipeableDrawer from '@material-ui/core/SwipeableDrawer'
 import List from '@material-ui/core/List'
 import ListItem from '@material-ui/core/ListItem'
@@ -66,7 +67,18 @@ const useStyles = makeStyles(theme => ({
     justifyContent: 'flex-end',
   },
   list: { width: 250 },
+  listItem:{
+    display: 'flex',
+    color: theme.palette.text.primary,
+    textDecoration: 'none',
+    width: '100%',
+    padding: theme.spacing(1)
+  }
 }))
+
+// TODO: Code cleanup - remove unused
+// nav accessibility
+// css for nav links
 
 export default function PrimarySearchAppBar() {
   const classes = useStyles();
@@ -78,7 +90,6 @@ export default function PrimarySearchAppBar() {
     if (event && event.type === 'keydown' && (event.key === 'Tab' || event.key === 'Shift')) {
       return;
     }
-    console.log('toggle drawer')
 
     setState({ ...state, [side]: open });
   }
@@ -106,7 +117,6 @@ export default function PrimarySearchAppBar() {
               </IconButton>
             </div>
             <Divider />
-
             <div
               className={classes.list}
               role="presentation"
@@ -114,13 +124,13 @@ export default function PrimarySearchAppBar() {
               onKeyDown={toggleDrawer('left', false)}
             >
               <List>
-                <ListItem button className={classes.listItem} href='/' role='link'>
-                  <ListItemIcon><HomeIcon /></ListItemIcon>
-                  <ListItemText primary='Home' />
+                <ListItem component={Link} to="/" className={classes.listItem}>
+                    <ListItemIcon><HomeIcon /></ListItemIcon>
+                    <ListItemText primary='Home' />
                 </ListItem>
-                <ListItem button className={classes.listItem} href='/recipes' role='link'>
-                  <ListItemIcon><RestaurantIcon /></ListItemIcon>
-                  <ListItemText primary='Recipes' />
+                <ListItem component={Link} to="/recipes" className={classes.listItem}>
+                    <ListItemIcon><RestaurantIcon /></ListItemIcon>
+                    <ListItemText primary='Recipes' />
                 </ListItem>
               </List>
             </div>
