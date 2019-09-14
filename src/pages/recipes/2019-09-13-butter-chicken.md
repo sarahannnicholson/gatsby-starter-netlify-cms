@@ -15,32 +15,29 @@ tags:
 **Chicken Marinade**
 
 * 3/4 cup, Plain Yogurt
-* Juice of ½ Lemon
+* 1 tbsp lemon juice
 * 3 cloves of Garlic, finely grated
-* 1 tbsp, Ginger, finely grated
+* 1 - 2 tsp, Ginger, finely grated
 * 2 tsp, Garam Masala
+* 1 tsp, Ground Red Chili Powder
+* 1 tsp, Ground Coriander
+* 1 tsp, Turmeric
 * ½ tsp, Salt
 * 6, Boneless Skinless Chicken Thighs, cut into bite size pieces'
 
 **Sauce**
 
-* 
-
-2 tbsp, Vegetable/Canola Oil
-
-* 2 tbsp, Butter
+* 2 - 2 ½ cups finely chopped onion
+* ½ cup + 1 tbsp butter 
 * 2 medium Onions finely diced
 * 3 cloves of Garlic, finely grated
 * 1 tbsp Ginger, finely grated
-* 1/2 tsp, Turmeric Powder
-* 1 tsp, Ground Coriander
-* 1 tsp, Ground Cumin
-* 2 tsp, Garam Masala
-* 2 tsp, Ground Red Chili Powder ( I used kashmiri chilli powder)
-* 1 tsp cayenne or other spicy chili powder
-* 2 cups, Strained Tomato Sauce
-* 1 cup heavy cream, + 2 tbsp
-* 2-3 tbsp hemp seeds
+* 2 - 2 ¼ cups, Tomato Sauce
+* 2 tbsp, Sugar
+* 2 tbsp and 1 tsp, Ground Red Chili Powder
+* 1 tbsp, DriedFenugreek Leaves
+* 1 tsp, Garam Masala
+* 2 cups, Heavy Cream
 * Salt to Taste
 * Fresh Coriander to garnish
 
