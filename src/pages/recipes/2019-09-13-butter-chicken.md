@@ -8,6 +8,7 @@ tags:
   - Indian
   - comfort
   - curry
+  - spicy
 ---
 # Ingredients
 
@@ -23,7 +24,10 @@ tags:
 
 **Sauce**
 
-* 2 tbsp, Vegetable/Canola Oil
+* 
+
+2 tbsp, Vegetable/Canola Oil
+
 * 2 tbsp, Butter
 * 2 medium Onions finely diced
 * 3 cloves of Garlic, finely grated
@@ -39,6 +43,8 @@ tags:
 * 2-3 tbsp hemp seeds
 * Salt to Taste
 * Fresh Coriander to garnish
+
+Recipe inspired by: https://www.youtube.com/watch?v=HMfUsS9zeuw and https://www.youtube.com/watch?v=vjKEUBg-ziY
 
 # Method
 
