@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Butter Chicken
 date: 2019-09-14T03:00:03.411Z
-thumbnail: /img/butter_chicken.jpg
+thumbnail: https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/butter_chicken.jpg
 description: Best butter chicken recipe!
 tags:
   - Indian
