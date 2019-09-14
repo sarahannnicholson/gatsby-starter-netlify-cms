@@ -50,9 +50,9 @@ tags:
 
 3. Add garlic and ginger and cook for 1 min
 
-4. Add ¼ cup butter, tomatoes, sugar, chili powder, fenugreek, garam masala, and deathly hot chili powder
+4. Add ¼ cup butter, sugar, chili powder, fenugreek, garam masala, and deathly hot chili powder. Fry until fragrant ( 1 min or less )
 
-5. Continue to cook until tomatoes reduce, thicken, and butter begins to separate (approximately 20 - 25 minutes). Stir occasionally.
+5. Add tomatoes, cook until they reduce, thicken, and butter begins to separate (approximately 20 - 25 minutes). Stir occasionally.
 
 6. While this is cooking feel free to make some rice
 
