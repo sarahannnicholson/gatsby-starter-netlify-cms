@@ -27,7 +27,7 @@ tags:
 
 **Sauce**
 
-* 2 - 2 ½ cups finely chopped onion
+* 2 - 2 ½ cups finely chopped onion (optional)
 * ½ cup + 3 tbsp butter 
 * 2 medium Onions finely diced
 * 3 cloves of Garlic, finely grated
@@ -42,8 +42,6 @@ tags:
 * Salt to Taste
 * Fresh Coriander to garnish
 
-Recipe inspired by: https://www.youtube.com/watch?v=HMfUsS9zeuw and https://www.youtube.com/watch?v=vjKEUBg-ziY
-
 # Method
 
 1. Using a dutch oven or deep frying pan, add 1 tbsp butter to the pan. Once melted add the onion
@@ -52,7 +50,7 @@ Recipe inspired by: https://www.youtube.com/watch?v=HMfUsS9zeuw and https://www.
 
 3. Add garlic and ginger and cook for 1 - 2 mins
 
-4. Add ½ cup butter, tomatoes, sugar, chili powder, fenugreek, garam masala, and deathly hot chili powder
+4. Add ¼ cup butter, tomatoes, sugar, chili powder, fenugreek, garam masala, and deathly hot chili powder
 
 5. Continue to cook until tomatoes reduce, thicken, and butter begins to separate (approximately 20 - 25 minutes). Stir occasionally.
 
@@ -64,4 +62,12 @@ Recipe inspired by: https://www.youtube.com/watch?v=HMfUsS9zeuw and https://www.
 
 8. When chicken is done, remove and set aside. Add last tbsp of butter and fry the other half of the chicken using the same method. Set aside with the rest of the chicken. 
 
-9. When the tomatoes a
+9. When the tomatoes are reduced, add remaining Butter, Heavy Cream (reserving a few tablespoons), and Salt to taste (~60 turns on my salt shaker). 
+
+10. Return chicken to pan, bringing the mixture to a simmer. Cook for 5 minutes until chicken is cooked through.
+
+11. Garnish with remaining Dried Fenugreek Leaves, and a drizzle of Heavy Cream.
+
+
+
+Recipe inspired by: https://www.youtube.com/watch?v=HMfUsS9zeuw and https://www.youtube.com/watch?v=vjKEUBg-ziY
