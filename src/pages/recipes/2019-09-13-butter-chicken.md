@@ -32,11 +32,12 @@ tags:
 * 2 medium Onions finely diced
 * 3 cloves of Garlic, finely grated
 * 1 tbsp Ginger, finely grated
-* 2 - 2 ¼ cups, Tomato Sauce
+* 2 - 2 ¼ cups, Tomato Sauce (Passata from a jar)
 * 2 tbsp, Sugar
 * 2 tbsp and 1 tsp, Ground Red Chili Powder
 * 1 tbsp, DriedFenugreek Leaves
 * 1 tsp, Garam Masala
+* ½ tsp deathly hot Chili powder
 * 2 cups, Heavy Cream
 * Salt to Taste
 * Fresh Coriander to garnish
