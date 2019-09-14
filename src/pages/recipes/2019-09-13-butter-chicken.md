@@ -48,7 +48,7 @@ tags:
 
 2. Cook until the onion is translucent, add butter if needed
 
-3. Add garlic and ginger and cook for 1 - 2 mins
+3. Add garlic and ginger and cook for 1 min
 
 4. Add ¼ cup butter, tomatoes, sugar, chili powder, fenugreek, garam masala, and deathly hot chili powder
 
