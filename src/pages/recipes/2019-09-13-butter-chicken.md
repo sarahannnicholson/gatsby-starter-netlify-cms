@@ -46,12 +46,22 @@ Recipe inspired by: https://www.youtube.com/watch?v=HMfUsS9zeuw and https://www.
 
 # Method
 
-1. Using a dutch oven, add 1 tbsp butter to the pan. Once melted add the onion
+1. Using a dutch oven or deep frying pan, add 1 tbsp butter to the pan. Once melted add the onion
 
 2. Cook until the onion is translucent, add butter if needed
 
 3. Add garlic and ginger and cook for 1 - 2 mins
 
-4. Add the remaining ½ cup butter, tomatoes, sugar, chili powder, fenugreek, garam masala, and deathly hot chili powder
+4. Add ½ cup butter, tomatoes, sugar, chili powder, fenugreek, garam masala, and deathly hot chili powder
 
-5. Continue to cook until tomatoes reduce, thicken, and butter begins to separate (approximately 20 minutes)
+5. Continue to cook until tomatoes reduce, thicken, and butter begins to separate (approximately 20 - 25 minutes). Stir occasionally.
+
+6. While this is cooking feel free to make some rice
+
+7. In a large surface area frying pan, add 1 tbsp of butter and let it get hot (medium - high heat). Once hot add ½ the marinated chicken pieces. 
+
+* The pan will spatter a lot, so be careful but you want to cook them for about 3-4 minutes a side with a nice deep brown, nearly burnt, color. The heat needs to be high so that you don't overcook the chicken.
+
+8. When chicken is done, remove and set aside. Add last tbsp of butter and fry the other half of the chicken using the same method. Set aside with the rest of the chicken. 
+
+9. When the tomatoes a
