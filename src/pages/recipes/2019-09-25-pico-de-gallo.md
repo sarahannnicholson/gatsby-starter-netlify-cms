@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Pico de gallo
 date: 2019-09-26T02:53:14.586Z
-thumbnail: /img/pico_de_gallo.jpg
+thumbnail: https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/pico_de_gallo.jpg
 description: Wonderful fresh salsa
 tags:
   - mexican
