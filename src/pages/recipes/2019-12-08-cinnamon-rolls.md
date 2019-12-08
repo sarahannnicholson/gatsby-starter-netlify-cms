@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Cinnamon rolls
 date: 2019-12-08T21:02:12.362Z
-thumbnail: /img/img_20191208_110050.jpg
+thumbnail: https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/img_20191208_110050.jpg
 description: Perfect gf cinnamon rolls
 tags:
   - dessert
