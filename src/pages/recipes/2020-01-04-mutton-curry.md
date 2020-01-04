@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Mutton curry
 date: 2020-01-04T21:57:09.394Z
-thumbnail: /img/mutton_curry.jpg
+thumbnail: https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/mutton_curry.jpg
 description: Dhokla curry recipe
 tags:
   - indian
@@ -37,7 +37,8 @@ tags:
 
 
 
-# Method
+# 
+Method
 
 1. Heat mustard oil in a pressure cooker.
 2. Add cinnamon, cloves, black peppercorn and bay leaf and let them crackle for a few seconds.

@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Bakso sapi
 date: 2020-01-04T21:42:37.210Z
-thumbnail: /img/bakso.jpg
+thumbnail: https://raw.githubusercontent.com/sarahannnicholson/gatsby-starter-netlify-cms/master/static/img/bakso.jpg
 description: South east asian bakso
 tags:
   - Indonesian
