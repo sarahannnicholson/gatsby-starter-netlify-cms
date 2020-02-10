@@ -14,13 +14,13 @@ tags:
 * 6 oz / 180g dried wide rice stick noodles 
 * Sauce
   * 3 tbsp dark soy sauce ( my recipe: <https://family-cookbook.netlify.com/recipes/2019-04-10-dark-soy-sauce/>)
-  * 3 tbsp oyster sauce
-  * 2 tsp soy sauce (gluten free)
+  * 2 tbsp oyster sauce
+  * 2 tbsp gf soy sauce ( my favourite one <https://www.amazon.ca/Kikkoman-Gluten-Free-Sauce-10-Ounce/dp/B00FPEAFN8> )
   * 2 tsp white vinegar
   * 2 tsp sugar (white or brown)
   * 1 tsp of sesame oil
   * 1 - 2 tsp of fish sauce (depends on potency)
-* 2 tbsp peanut or vegetable oil
+* 2 - 6 tbsp peanut or canola oil
 * 2 cloves garlic cloves
 * 1/2 package frozen pork rolls (rolls for hot pot)
 * 2 eggs
