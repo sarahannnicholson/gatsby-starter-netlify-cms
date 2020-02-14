@@ -13,8 +13,8 @@ tags:
 
 * 6 oz / 180g dried wide rice stick noodles 
 * Sauce
-  * 3 tbsp dark soy sauce ( my recipe: <https://family-cookbook.netlify.com/recipes/2019-04-10-dark-soy-sauce/>)
-  * 2 tbsp oyster sauce
+  * 2.5 tbsp dark soy sauce ( my recipe: <https://family-cookbook.netlify.com/recipes/2019-04-10-dark-soy-sauce/>)
+  * 2.5 tbsp oyster sauce
   * 2 tbsp gf soy sauce ( my favourite one <https://www.amazon.ca/Kikkoman-Gluten-Free-Sauce-10-Ounce/dp/B00FPEAFN8> )
   * 2 tsp white vinegar
   * 2 tsp sugar (white or brown)
